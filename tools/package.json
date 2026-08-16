@@ -1,0 +1,9 @@
+{
+  "name": "gabarit-web-tools",
+  "private": true,
+  "type": "module",
+  "description": "Сборка картинок для сайта клуба «Габарит»",
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}

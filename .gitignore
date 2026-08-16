@@ -1,0 +1,8 @@
+# Исходники фотосъёмки (~440 МБ) — в git не попадают, на сайте только webp из assets/img
+Разные фото/
+Цвет/
+
+node_modules/
+.playwright-mcp/
+*.jpeg
+Thumbs.db

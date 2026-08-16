@@ -501,6 +501,7 @@ a { color: inherit; text-decoration: none; }
 
 /* ---------- Лайтбокс ---------- */
 .lightbox {
+  margin: auto; /* центрирование dialog, убитое глобальным сбросом margin */
   border: 0;
   padding: 0;
   background: transparent;

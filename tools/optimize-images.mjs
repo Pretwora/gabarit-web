@@ -32,6 +32,7 @@ const SELECTION = [
   { src: [PHOTOS, 'NA_AVU_3J6A5470.jpg'], slug: 'gallery-08', widths: [800, 1600] },
   { src: [PHOTOS, 'IMG_9553.JPG'], slug: 'gallery-09', widths: [800, 1600] },
   { src: [PHOTOS, 'DSC05597.JPG'], slug: 'gallery-10', widths: [800, 1600] },
+  { src: [COLOR, 'DSC02532.JPG'], slug: 'gallery-11', widths: [800, 1600] },
 ];
 
 // Скриншоты приложения (уже webp, только копируем)
